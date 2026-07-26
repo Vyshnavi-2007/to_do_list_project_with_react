@@ -21,7 +21,6 @@ A modern and responsive To-Do List application built using **React** and **Vite*
 ## 🛠️ Technologies Used
 
 - React.js
-- JavaScript (ES6)
 - CSS3
 - React Router DOM
 - Vite
