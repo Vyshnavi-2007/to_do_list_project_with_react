@@ -119,9 +119,9 @@ npm run dev
 
 ##  Author
 
-**Vyshnavi Gottipati**
+**Sri Shanmukha Vyshnavi Priya Gottipati**
 
-B.Tech – Computer Science Engineering
+B.Tech (3rd year)– Computer Science Engineering
 
 ---
 
