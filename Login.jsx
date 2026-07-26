@@ -17,8 +17,8 @@ function Login() {
     }
 
     if (
-      email === "" &&
-      password === ""
+      email === "priya@gmail.com" &&
+      password === "1234"
     ) {
       alert("Login Successful!");
       navigate("/todo");
