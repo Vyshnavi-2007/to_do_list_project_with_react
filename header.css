@@ -1,0 +1,43 @@
+.header{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 40px;
+
+    background:rgba(255,255,255,0.1);
+    backdrop-filter:blur(20px);
+
+  
+    
+}
+
+.header h1{
+    font-size:34px;
+    letter-spacing:2px;
+    color:#1d4ed8;
+    margin:0;
+}
+
+.header p{
+    margin-top:8px;
+    color:#2563eb;
+}
+
+.header-right{
+    text-align:right;
+}
+
+.header-right h3{
+    margin:0;
+    color:#1d4ed8;
+}
+
+.header-right p{
+    margin-top:5px;
+}
