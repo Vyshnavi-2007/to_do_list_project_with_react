@@ -131,7 +131,7 @@ export default Todo;*/
 import { useState, useEffect } from "react";
 import Header from "./header.jsx";
 import "./todo.css";
-import background from "../assets/img2.jpg";
+import background from "img3.jpg";
 function Todo() {
   const [task, setTask] = useState("");
 
