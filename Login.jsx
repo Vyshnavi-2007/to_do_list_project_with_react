@@ -1,5 +1,5 @@
 import "./login.css";
-import image from "../assets/img2.jpg";
+import image from "img2.jpg";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
