@@ -56,7 +56,7 @@ src
 │
 ├── assets
 │   ├── img3.jpg
-│   └── arnold.jpg
+│   └── img2.jpg
 │
 ├── components
 │   ├── Header.jsx
