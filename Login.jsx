@@ -1,5 +1,5 @@
 import "./login.css";
-import arnold from "../assets/img2.jpg";
+import image from "../assets/img2.jpg";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -31,7 +31,7 @@ function Login() {
     <div className="container">
       <div className="login-card">
         <div className="left-panel">
-          <img src={arnold} alt="Login" />
+          <img src={image} alt="Login" />
         </div>
 
         <div className="right-panel">
